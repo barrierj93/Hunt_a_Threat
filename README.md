@@ -31,11 +31,11 @@ Sigue estos pasos para descargar y ejecutar el juego en tu máquina:
 ### 1. Clonar el Repositorio
 Abre tu terminal y clona el repositorio de GitHub:
 ```bash
-git clone https://github.com/tu-usuario/hunt-a-threat.git
+git clone https://github.com/barrierj93/hunt_a_threat.git
 ```
 Cambia al directorio del proyecto:
 ```bash
-cd hunt-a-threat
+cd Hunt-a-Threat
 ```
 
 ### 2. Instalar Dependencias
